@@ -1,0 +1,4 @@
+# The core kalam package has NO third-party dependencies.
+# The packages below are only needed for later phases / full-dataset work:
+# datasets   # streaming the full Hugging Face corpus (scripts/explore_dataset.py --hf)
+# torch      # Phase 2+ (the model itself)
